@@ -31,10 +31,10 @@ search:
 
   # These are the terms you would be typing into the website's search field:
   keywords:
-    - Python
+    - Data
 
   # Don't return any listings older than this:
-  max_listing_days: 35
+  max_listing_days: 365
 
   # Blocked company names that will never appear in any results:
   company_block_list:
