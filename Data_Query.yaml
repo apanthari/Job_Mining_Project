@@ -44,7 +44,7 @@ search:
   remoteness: ANY
 
 # Logging level options are: critical, error, warning, info, debug, notset
-  log_level: INFO
+  log_level:
 
 # Delaying algorithm configuration
 delay:
