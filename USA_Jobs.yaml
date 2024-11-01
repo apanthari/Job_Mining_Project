@@ -22,22 +22,23 @@ search:
   # FIXME: we need to add back GLASSDOOR when that's working again.
   providers:
     - INDEED
+    - MONSTER
 
   # Region that we are searching for jobs within:
   province_or_state: "CA" # NOTE: this is generally 2 characters long.
   city: "San Francisco" # NOTE: this is the full city / town name.
-  radius: # km (NOTE: if we were in locale: USA_ENGLISH it's in miles)
+  radius: 25 # km (NOTE: if we were in locale: USA_ENGLISH it's in miles)
 
   # These are the terms you would be typing into the website's search field:
   keywords:
-    - Data
+    - Python
 
   # Don't return any listings older than this:
-  max_listing_days: 365
+  max_listing_days: 35
 
   # Blocked company names that will never appear in any results:
   company_block_list:
-    # - "Infox Consulting"
+    - "Infox Consulting"
 
   # The desired level of work-remoteness (i.e. IN_PERSON, FULLY_REMOTE, ANY,
   # TEMPORARILY_REMOTE, PARTIALLY_REMOTE)
