@@ -3,10 +3,10 @@
 
 # Path where your master CSV, block-lists, and cache data will be stored
 # NOTE: we create any missing directories in these filepaths
-master_csv_file: Project_Data/USA_Jobs.csv
+master_csv_file: Project_Data/NC_Jobs.csv
 cache_folder: Project_Data/cache
-block_list_file: Project_Data/USA_block_list.json
-duplicates_list_file: Project_Data/USA_duplicates_list.json
+block_list_file: Project_Data/NC_block_list.json
+duplicates_list_file: Project_Data/NC_duplicates_list.json
 log_file: Project_Data/log.log
 
 # Job search configuration
