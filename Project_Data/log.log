@@ -1,0 +1,39 @@
+[2024-11-02 09:47:00,347] [INFO] JobFunnel: Scraping local providers with: ['IndeedScraperUSAEng', 'MonsterScraperUSAEng']
+[2024-11-02 09:47:01,709] [INFO] IndeedScraperUSAEng: Found 25 pages of search results for query=Data
+[2024-11-02 09:47:08,981] [INFO] IndeedScraperUSAEng: Scraped 602 job listings from search results pages
+[2024-11-02 09:47:09,430] [ERROR] IndeedScraperUSAEng: Job Senior Manager, Business Applications and Senior Manager, Business Applications share duplicate key_id: IndeedScraperUSAEng_dbfa486c628f2c5d
+[2024-11-02 09:47:09,430] [ERROR] IndeedScraperUSAEng: Job Sr. Business Analyst and Sr. Business Analyst share duplicate key_id: IndeedScraperUSAEng_996e409ef8993a71
+[2024-11-02 09:47:09,431] [ERROR] IndeedScraperUSAEng: Job Senior Backend Developer, Data Services and Senior Backend Developer, Data Services share duplicate key_id: IndeedScraperUSAEng_5a4ac6ba60831c14
+[2024-11-02 09:47:09,438] [ERROR] IndeedScraperUSAEng: Job Lead Consultant (Data Center Infrastructure Specialist) and Lead Consultant (Data Center Infrastructure Specialist) share duplicate key_id: IndeedScraperUSAEng_09888dfe5ea1ab69
+[2024-11-02 09:47:09,439] [ERROR] IndeedScraperUSAEng: Job Cloud Database Security Developer - Application Data Security and Cloud Database Security Developer - Application Data Security share duplicate key_id: IndeedScraperUSAEng_17d2689b94a9a2bc
+[2024-11-02 09:47:09,439] [ERROR] IndeedScraperUSAEng: Job AI/CV Engineer and AI/CV Engineer share duplicate key_id: IndeedScraperUSAEng_4acdf65060f1afc8
+[2024-11-02 09:47:09,440] [ERROR] IndeedScraperUSAEng: Job Sr. Product Marketing Manager, Public Equity and Sr. Product Marketing Manager, Public Equity share duplicate key_id: IndeedScraperUSAEng_8d2406c25cdadde1
+[2024-11-02 09:47:09,440] [ERROR] IndeedScraperUSAEng: Job Product Marketing Manager and Product Marketing Manager share duplicate key_id: IndeedScraperUSAEng_1440760a12bc6600
+[2024-11-02 09:47:09,440] [ERROR] IndeedScraperUSAEng: Job Innovation & Technology - Quantum Information Lead, Optimization and Machine Learning (Manager) and Innovation & Technology - Quantum Information Lead, Optimization and Machine Learning (Manager) share duplicate key_id: IndeedScraperUSAEng_3ff8bf605bfb58de
+[2024-11-02 09:47:09,440] [ERROR] IndeedScraperUSAEng: Job Senior Account Manager - Senior Gen AI Architect and Senior Account Manager - Senior Gen AI Architect share duplicate key_id: IndeedScraperUSAEng_bba00f645acaf6e1
+[2024-11-02 09:47:09,440] [ERROR] IndeedScraperUSAEng: Job Workday Certified Data Consultant/Team Lead - Education & Government and Workday Certified Data Consultant/Team Lead - Education & Government share duplicate key_id: IndeedScraperUSAEng_446b3b0fcb81416c
+[2024-11-02 09:47:09,441] [ERROR] IndeedScraperUSAEng: Job Senior Software Engineer - LLM and Senior Software Engineer - LLM share duplicate key_id: IndeedScraperUSAEng_e31901de9159e88e
+[2024-11-02 09:47:09,441] [ERROR] IndeedScraperUSAEng: Job Workday Certified Financials Data Lead and Workday Certified Financials Data Lead share duplicate key_id: IndeedScraperUSAEng_05523ad1c503683d
+[2024-11-02 09:47:09,441] [ERROR] IndeedScraperUSAEng: Job Staff AI Infra Engineer (serving API) and Staff AI Infra Engineer (serving API) share duplicate key_id: IndeedScraperUSAEng_700e948ae54c3c0b
+[2024-11-02 09:47:09,441] [ERROR] IndeedScraperUSAEng: Job Statistical Science Director, Oncology and Statistical Science Director, Oncology share duplicate key_id: IndeedScraperUSAEng_601ee8d43046e464
+[2024-11-02 09:47:09,441] [ERROR] IndeedScraperUSAEng: Job Principal Software Engineer - Database Platform and Principal Software Engineer - Database Platform share duplicate key_id: IndeedScraperUSAEng_4a96b98570af113c
+[2024-11-02 09:47:09,441] [ERROR] IndeedScraperUSAEng: Job Principal Engineer - Database Internals and Principal Engineer - Database Internals share duplicate key_id: IndeedScraperUSAEng_1572c98bc2fd10a3
+[2024-11-02 09:47:09,441] [ERROR] IndeedScraperUSAEng: Job Founding AI Frameworks Engineer and Founding AI Frameworks Engineer share duplicate key_id: IndeedScraperUSAEng_19ddfe242e99c3b1
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job Technology Business Analyst - Limited Term and Technology Business Analyst - Limited Term share duplicate key_id: IndeedScraperUSAEng_f2dc28fd3c386cbd
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job Lead Applied Scientist, IR/NLP and Lead Applied Scientist, IR/NLP share duplicate key_id: IndeedScraperUSAEng_95bd91bcb18099a7
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job Lead Technical Engineer and Lead Technical Engineer share duplicate key_id: IndeedScraperUSAEng_59ef7b8547c2a635
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job AI/ML Data Engineering Lead (Specialist Master) - SFL Scientific and AI/ML Data Engineering Lead (Specialist Master) - SFL Scientific share duplicate key_id: IndeedScraperUSAEng_164e156e8ede41da
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job Senior Software Engineer - Database Platform and Senior Software Engineer - Database Platform share duplicate key_id: IndeedScraperUSAEng_cdaf7ed618080fc8
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job Senior Data Scientist, Machine Learning, Fulfilment and Senior Data Scientist, Machine Learning, Fulfilment share duplicate key_id: IndeedScraperUSAEng_7206c1c60467a1e8
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job Senior Software Engineer - Query Compiler and Senior Software Engineer - Query Compiler share duplicate key_id: IndeedScraperUSAEng_dd22561443ff69a8
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job Workday Certified Data Configuration Lead - Education & Government and Workday Certified Data Configuration Lead - Education & Government share duplicate key_id: IndeedScraperUSAEng_f6f145f74fb94761
+[2024-11-02 09:47:09,443] [ERROR] IndeedScraperUSAEng: Job Senior Software Engineer, Data Platform (Data Trust) and Senior Software Engineer, Data Platform (Data Trust) share duplicate key_id: IndeedScraperUSAEng_96f427cc44ff303b
+[2024-11-02 09:47:09,444] [ERROR] IndeedScraperUSAEng: Job Sr. Product Marketing Manager, Funds and Sr. Product Marketing Manager, Funds share duplicate key_id: IndeedScraperUSAEng_d2bf567ae5df321f
+[2024-11-02 09:47:09,444] [ERROR] IndeedScraperUSAEng: Job Sr. Energy Strategy Manager, AWS Energy team and Sr. Energy Strategy Manager, AWS Energy team share duplicate key_id: IndeedScraperUSAEng_d2ab01dea94a514f
+[2024-11-02 09:47:09,444] [ERROR] IndeedScraperUSAEng: Job Cyber Risk Data Privacy Solution Engineer/Senior Consultant and Cyber Risk Data Privacy Solution Engineer/Senior Consultant share duplicate key_id: IndeedScraperUSAEng_283789f69b89f552
+[2024-11-02 09:47:09,444] [ERROR] IndeedScraperUSAEng: Job Guidewire Claim Center Configuration Business Analyst and Guidewire Claim Center Configuration Business Analyst share duplicate key_id: IndeedScraperUSAEng_24cb1d44e95d6797
+[2024-11-02 09:47:09,468] [INFO] MonsterScraperUSAEng: No get() or set() will be done for Job attrs: ['REMOTENESS']
+[2024-11-02 09:47:10,421] [ERROR] JobFunnel: Failed to scrape jobs for MonsterScraperUSAEng: Unable to extract jobs from initial search result page:
+	'NoneType' object has no attribute 'text'
+[2024-11-02 09:47:10,421] [INFO] JobFunnel: Completed all scraping, found 571 new jobs.
+[2024-11-02 09:47:10,497] [INFO] JobFunnel: Done. View your current jobs in Project_Data/USA_Jobs.csv
