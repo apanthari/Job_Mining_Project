@@ -7145,3 +7145,316 @@
 	'NoneType' object has no attribute 'text'
 [2024-11-06 12:18:39,180] [INFO] JobFunnel: Completed all scraping, found 977 new jobs.
 [2024-11-06 12:18:39,906] [INFO] JobFunnel: Done. View your current jobs in Project_Data/USA_Jobs.csv
+[2024-11-06 12:24:32,180] [INFO] JobFunnel: Scraping local providers with: ['IndeedScraperUSAEng', 'MonsterScraperUSAEng']
+[2024-11-06 12:24:33,972] [INFO] IndeedScraperUSAEng: Found 50 pages of search results for query=Data
+[2024-11-06 12:24:47,973] [INFO] IndeedScraperUSAEng: Scraped 1226 job listings from search results pages
+[2024-11-06 12:24:48,397] [ERROR] IndeedScraperUSAEng: Job Business Solutions Analyst I and Business Solutions Analyst I share duplicate key_id: IndeedScraperUSAEng_14aac0c5d60c3cab
+[2024-11-06 12:24:48,410] [ERROR] IndeedScraperUSAEng: Job Database Administrator and Database Administrator share duplicate key_id: IndeedScraperUSAEng_b3f5f119fcda09b8
+[2024-11-06 12:24:48,457] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_f8f31c1a38d91c7c
+[2024-11-06 12:24:48,473] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_72f7339dd7fa387a
+[2024-11-06 12:24:48,534] [ERROR] IndeedScraperUSAEng: Job Data Architect (Remote) and Data Architect (Remote) share duplicate key_id: IndeedScraperUSAEng_a7b75003f28877f5
+[2024-11-06 12:24:48,543] [ERROR] IndeedScraperUSAEng: Job Data Center Facility Technician and Data Center Facility Technician share duplicate key_id: IndeedScraperUSAEng_8cd29a308c4fa039
+[2024-11-06 12:24:48,546] [ERROR] IndeedScraperUSAEng: Job Internal Audit-Dallas-Associate-Data Analytics and Internal Audit-Dallas-Associate-Data Analytics share duplicate key_id: IndeedScraperUSAEng_c4d6da2ad3e27b99
+[2024-11-06 12:24:48,549] [ERROR] IndeedScraperUSAEng: Job Intake & Data Entry Specialist- Refugee School Impact and Intake & Data Entry Specialist- Refugee School Impact share duplicate key_id: IndeedScraperUSAEng_606eb496972f2ef4
+[2024-11-06 12:24:48,554] [ERROR] IndeedScraperUSAEng: Job Document Handler (Seasonal) and Document Handler (Seasonal) share duplicate key_id: IndeedScraperUSAEng_19ff80b60ed75523
+[2024-11-06 12:24:48,557] [ERROR] IndeedScraperUSAEng: Job Data Center Maintenance Technician Travel 40% and Data Center Maintenance Technician Travel 40% share duplicate key_id: IndeedScraperUSAEng_9c4f4b7d7c801962
+[2024-11-06 12:24:48,561] [ERROR] IndeedScraperUSAEng: Job Sr. MDG Analyst (Master Data Governance S/4HANA) and Sr. MDG Analyst (Master Data Governance S/4HANA) share duplicate key_id: IndeedScraperUSAEng_2f7f286cc839313d
+[2024-11-06 12:24:48,562] [ERROR] IndeedScraperUSAEng: Job Data Scientist and Data Scientist share duplicate key_id: IndeedScraperUSAEng_f3c6574dd64c1f1e
+[2024-11-06 12:24:48,565] [ERROR] IndeedScraperUSAEng: Job Data Analyst and Data Analyst share duplicate key_id: IndeedScraperUSAEng_2b7477e023123de1
+[2024-11-06 12:24:48,565] [ERROR] IndeedScraperUSAEng: Job Data Engineer (12+ yrs exp.) || Dallas, TX (Local only) || F2F interview required. and Data Engineer (12+ yrs exp.) || Dallas, TX (Local only) || F2F interview required. share duplicate key_id: IndeedScraperUSAEng_ac834cfa938a1f14
+[2024-11-06 12:24:48,578] [ERROR] IndeedScraperUSAEng: Job Data Analyst and Data Analyst share duplicate key_id: IndeedScraperUSAEng_5ce4901f857b56a0
+[2024-11-06 12:24:48,578] [ERROR] IndeedScraperUSAEng: Job IT Development Program – Data Analysis & Engineering and IT Development Program – Data Analysis & Engineering share duplicate key_id: IndeedScraperUSAEng_76b749f4cad45462
+[2024-11-06 12:24:48,578] [ERROR] IndeedScraperUSAEng: Job Business Analyst and Business Analyst share duplicate key_id: IndeedScraperUSAEng_114cf9e87c13b95c
+[2024-11-06 12:24:48,579] [ERROR] IndeedScraperUSAEng: Job Clinical Data Coordinator - Entry Level and Clinical Data Coordinator - Entry Level share duplicate key_id: IndeedScraperUSAEng_5372aa370e43fb74
+[2024-11-06 12:24:48,585] [ERROR] IndeedScraperUSAEng: Job Data Analyst and Data Analyst share duplicate key_id: IndeedScraperUSAEng_da040374243d9864
+[2024-11-06 12:24:48,592] [ERROR] IndeedScraperUSAEng: Job Manager of ERP Business Reporting & Analytics and Manager of ERP Business Reporting & Analytics share duplicate key_id: IndeedScraperUSAEng_9c79983307a95a55
+[2024-11-06 12:24:48,592] [ERROR] IndeedScraperUSAEng: Job Business Analyst II and Business Analyst II share duplicate key_id: IndeedScraperUSAEng_6f258f0fed4a54d8
+[2024-11-06 12:24:48,595] [ERROR] IndeedScraperUSAEng: Job PKI Data Analyst and PKI Data Analyst share duplicate key_id: IndeedScraperUSAEng_29052d70b4a60f41
+[2024-11-06 12:24:48,599] [ERROR] IndeedScraperUSAEng: Job Senior Consultant - Data Analytics - Business Consulting and Senior Consultant - Data Analytics - Business Consulting share duplicate key_id: IndeedScraperUSAEng_0efb82083ad5777a
+[2024-11-06 12:24:48,602] [ERROR] IndeedScraperUSAEng: Job ITAM Governance and Data Analytics Lead - VP and ITAM Governance and Data Analytics Lead - VP share duplicate key_id: IndeedScraperUSAEng_b6056aaaca08c0b9
+[2024-11-06 12:24:48,624] [ERROR] IndeedScraperUSAEng: Job AI Math Analyst - Part Time Work From Home and AI Math Analyst - Part Time Work From Home share duplicate key_id: IndeedScraperUSAEng_cc2612b169bdc783
+[2024-11-06 12:24:48,639] [ERROR] IndeedScraperUSAEng: Job AI Math Analyst - Part Time Work From Home and AI Math Analyst - Part Time Work From Home share duplicate key_id: IndeedScraperUSAEng_5c71b9dc3f840e4e
+[2024-11-06 12:24:48,792] [ERROR] IndeedScraperUSAEng: Job AR/AP/Data Entry Clerk and AR/AP/Data Entry Clerk share duplicate key_id: IndeedScraperUSAEng_30d3cd70a016da42
+[2024-11-06 12:24:48,826] [ERROR] IndeedScraperUSAEng: Job Senior Data Analyst and Senior Data Analyst share duplicate key_id: IndeedScraperUSAEng_d5673a0ead002a91
+[2024-11-06 12:24:48,852] [ERROR] IndeedScraperUSAEng: Job Associate Data Engineer, Technology Services and Associate Data Engineer, Technology Services share duplicate key_id: IndeedScraperUSAEng_aa99d8e6f78eba43
+[2024-11-06 12:24:48,979] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_59cb293c17c17ec1
+[2024-11-06 12:24:48,983] [ERROR] IndeedScraperUSAEng: Job Director, Data and Analytics and Director, Data and Analytics share duplicate key_id: IndeedScraperUSAEng_b005c22b6d2ec19f
+[2024-11-06 12:24:49,011] [ERROR] IndeedScraperUSAEng: Job Senior Analyst - Aggregation and Senior Analyst - Aggregation share duplicate key_id: IndeedScraperUSAEng_62140adb8f058cd2
+[2024-11-06 12:24:49,151] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Manager and Payments Fraud Analytics and Data Science Manager share duplicate key_id: IndeedScraperUSAEng_53444e1ffaf2bd90
+[2024-11-06 12:24:49,157] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_114de9db9c04df2f
+[2024-11-06 12:24:49,161] [ERROR] IndeedScraperUSAEng: Job Data Owner Senior Associate and Data Owner Senior Associate share duplicate key_id: IndeedScraperUSAEng_48d50cb5140c8f4e
+[2024-11-06 12:24:49,177] [ERROR] IndeedScraperUSAEng: Job Design Technology Data Scientist and Design Technology Data Scientist share duplicate key_id: IndeedScraperUSAEng_edd9edd50a88411a
+[2024-11-06 12:24:49,179] [ERROR] IndeedScraperUSAEng: Job AI Data Analytics Consulting, Director - REMOTE and AI Data Analytics Consulting, Director - REMOTE share duplicate key_id: IndeedScraperUSAEng_0f7adfd5248d4f05
+[2024-11-06 12:24:49,181] [ERROR] IndeedScraperUSAEng: Job Data Entry Associate and Data Entry Associate share duplicate key_id: IndeedScraperUSAEng_b5eb4d64a9bada4b
+[2024-11-06 12:24:49,183] [ERROR] IndeedScraperUSAEng: Job Customer Data Platform Product Owner and Customer Data Platform Product Owner share duplicate key_id: IndeedScraperUSAEng_c0446bec0814319d
+[2024-11-06 12:24:49,185] [ERROR] IndeedScraperUSAEng: Job Sr. Analyst, Growth Analytics and Sr. Analyst, Growth Analytics share duplicate key_id: IndeedScraperUSAEng_a62a49890218dc63
+[2024-11-06 12:24:49,209] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,213] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,246] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,248] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,250] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,255] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,259] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,261] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,272] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,275] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,278] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,283] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,290] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,293] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,305] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,307] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,308] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,311] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,314] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,316] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,317] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,321] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,325] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,327] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,334] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,340] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,340] [ERROR] IndeedScraperUSAEng: Job IT BUSINESS ANALYST-Store Technologies and IT BUSINESS ANALYST-Store Technologies share duplicate key_id: IndeedScraperUSAEng_b6c959d7df0a6321
+[2024-11-06 12:24:49,355] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,360] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,366] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,369] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,370] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,371] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,371] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,374] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,374] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,374] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,374] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,377] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,379] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,379] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,379] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,380] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,380] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,380] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,381] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,381] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,381] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,381] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,382] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,477] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,478] [ERROR] IndeedScraperUSAEng: Job Sr. Staff Data Scientist and Sr. Staff Data Scientist share duplicate key_id: IndeedScraperUSAEng_a47efd416a84a45d
+[2024-11-06 12:24:49,478] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,478] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,478] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,478] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,479] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,479] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,479] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,479] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,480] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,483] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,483] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,483] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,492] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,493] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,494] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,494] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,494] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,494] [ERROR] IndeedScraperUSAEng: Job Sr. Staff Data Scientist and Sr. Staff Data Scientist share duplicate key_id: IndeedScraperUSAEng_a47efd416a84a45d
+[2024-11-06 12:24:49,495] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,495] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,495] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,495] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,495] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,501] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,504] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,507] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,510] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,514] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,514] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,516] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,521] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,523] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,528] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,533] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,537] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,543] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,545] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,548] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,549] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,551] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,552] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,556] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,560] [ERROR] IndeedScraperUSAEng: Job Sr. Staff Data Scientist and Sr. Staff Data Scientist share duplicate key_id: IndeedScraperUSAEng_a47efd416a84a45d
+[2024-11-06 12:24:49,562] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,564] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,566] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,569] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,569] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,571] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,574] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,577] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,579] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,582] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,585] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,590] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,594] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,598] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,618] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,710] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,713] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,713] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,713] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,713] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,713] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,715] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,715] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,715] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,715] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,716] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,716] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,717] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,717] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,717] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,717] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,717] [ERROR] IndeedScraperUSAEng: Job Sr. Staff Data Scientist and Sr. Staff Data Scientist share duplicate key_id: IndeedScraperUSAEng_a47efd416a84a45d
+[2024-11-06 12:24:49,717] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,721] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,723] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,723] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,723] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,724] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,725] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,725] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,725] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,725] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,726] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,726] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,726] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,727] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,727] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,727] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,727] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,727] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,728] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,728] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,728] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,728] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,728] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,729] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,729] [ERROR] IndeedScraperUSAEng: Job Sr. Staff Data Scientist and Sr. Staff Data Scientist share duplicate key_id: IndeedScraperUSAEng_a47efd416a84a45d
+[2024-11-06 12:24:49,730] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,731] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,731] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,731] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,731] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,732] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,734] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,734] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,735] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,735] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,735] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,735] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,735] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,742] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,744] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,745] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,746] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,747] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,747] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,747] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,748] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,748] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,748] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,748] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,748] [ERROR] IndeedScraperUSAEng: Job Sr. Staff Data Scientist and Sr. Staff Data Scientist share duplicate key_id: IndeedScraperUSAEng_a47efd416a84a45d
+[2024-11-06 12:24:49,749] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,749] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,749] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,749] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,749] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,749] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,749] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,749] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,750] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Sr. Staff Data Scientist and Sr. Staff Data Scientist share duplicate key_id: IndeedScraperUSAEng_a47efd416a84a45d
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,751] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,753] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,753] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,754] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,754] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,754] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,754] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,754] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,755] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,755] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,755] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,755] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,755] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,757] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,757] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,757] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,757] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,758] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,758] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,758] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,758] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,758] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,758] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,758] [ERROR] IndeedScraperUSAEng: Job Sr. Staff Data Scientist and Sr. Staff Data Scientist share duplicate key_id: IndeedScraperUSAEng_a47efd416a84a45d
+[2024-11-06 12:24:49,759] [ERROR] IndeedScraperUSAEng: Job Payments Fraud Analytics and Data Science Senior Consultant and Payments Fraud Analytics and Data Science Senior Consultant share duplicate key_id: IndeedScraperUSAEng_cc3db97f79361eaf
+[2024-11-06 12:24:49,759] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_f4ed99d5e445900c
+[2024-11-06 12:24:49,759] [ERROR] IndeedScraperUSAEng: Job Data Scientist Analyst Sr and Data Scientist Analyst Sr share duplicate key_id: IndeedScraperUSAEng_47f6598aead70b11
+[2024-11-06 12:24:49,759] [ERROR] IndeedScraperUSAEng: Job Senior Big Data/Hadoop Engineer and Senior Big Data/Hadoop Engineer share duplicate key_id: IndeedScraperUSAEng_48ad5cb9de911303
+[2024-11-06 12:24:49,759] [ERROR] IndeedScraperUSAEng: Job Vice President, Director, Data Science and Vice President, Director, Data Science share duplicate key_id: IndeedScraperUSAEng_9351ab23050abb89
+[2024-11-06 12:24:49,760] [ERROR] IndeedScraperUSAEng: Job Data Center Technician and Data Center Technician share duplicate key_id: IndeedScraperUSAEng_64bf3f9d0f286254
+[2024-11-06 12:24:49,760] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,761] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,761] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,761] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,762] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_869dc06db15d5c06
+[2024-11-06 12:24:49,762] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,762] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,762] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5ae787223ba845bb
+[2024-11-06 12:24:49,762] [ERROR] IndeedScraperUSAEng: Job 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) and 4+ Yrs Senior Data Engineer with experience in Snowflake, Informatica, Python - Madison, WI (Hybrid) share duplicate key_id: IndeedScraperUSAEng_dc03b9c6985f8257
+[2024-11-06 12:24:49,762] [ERROR] IndeedScraperUSAEng: Job Data Scanning Associate and Data Scanning Associate share duplicate key_id: IndeedScraperUSAEng_5d22d10089117ec1
+[2024-11-06 12:24:49,762] [ERROR] IndeedScraperUSAEng: Job BI Data Analyst and BI Data Analyst share duplicate key_id: IndeedScraperUSAEng_25a74108c94cca50
+[2024-11-06 12:24:49,762] [ERROR] IndeedScraperUSAEng: Job Senior Superintendent - Data Centers and Senior Superintendent - Data Centers share duplicate key_id: IndeedScraperUSAEng_7377681ef03148ea
+[2024-11-06 12:24:49,763] [ERROR] IndeedScraperUSAEng: Job Data Privacy Technology Lead - IT and Data Privacy Technology Lead - IT share duplicate key_id: IndeedScraperUSAEng_8cf7b3eacf6a6235
+[2024-11-06 12:24:49,763] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_87296d1e6feebebd
+[2024-11-06 12:24:49,763] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,763] [ERROR] IndeedScraperUSAEng: Job Senior Engineer - AI/ML/Data Scientist and Senior Engineer - AI/ML/Data Scientist share duplicate key_id: IndeedScraperUSAEng_5c80d8dab82627ea
+[2024-11-06 12:24:49,763] [ERROR] IndeedScraperUSAEng: Job Data Collection Representative and Data Collection Representative share duplicate key_id: IndeedScraperUSAEng_dd543d00a8691d82
+[2024-11-06 12:24:49,763] [ERROR] IndeedScraperUSAEng: Job Mainframe Developer (NLP experienced) and Mainframe Developer (NLP experienced) share duplicate key_id: IndeedScraperUSAEng_4155e039f25c5e15
+[2024-11-06 12:24:49,765] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_54bb6b7845a34f19
+[2024-11-06 12:24:49,765] [ERROR] IndeedScraperUSAEng: Job Senior Data Engineer and Senior Data Engineer share duplicate key_id: IndeedScraperUSAEng_786c8c4e10c7b61c
+[2024-11-06 12:24:49,765] [ERROR] IndeedScraperUSAEng: Job Data Center Technician L3 and Data Center Technician L3 share duplicate key_id: IndeedScraperUSAEng_e982ab0f1f6fef3e
+[2024-11-06 12:24:49,765] [ERROR] IndeedScraperUSAEng: Job Tax Data Analyst and Tax Data Analyst share duplicate key_id: IndeedScraperUSAEng_699617199b180e5a
+[2024-11-06 12:24:49,765] [ERROR] IndeedScraperUSAEng: Job Data Modeler and Data Modeler share duplicate key_id: IndeedScraperUSAEng_e7f4b8e585d14a4a
+[2024-11-06 12:24:49,765] [ERROR] IndeedScraperUSAEng: Job Data Engineer and Data Engineer share duplicate key_id: IndeedScraperUSAEng_b3b217b2702cdfb8
+[2024-11-06 12:24:49,766] [ERROR] IndeedScraperUSAEng: Job Data & Reporting Analyst and Data & Reporting Analyst share duplicate key_id: IndeedScraperUSAEng_c05f0ca8cee5e9f8
+[2024-11-06 12:24:49,797] [INFO] MonsterScraperUSAEng: No get() or set() will be done for Job attrs: ['REMOTENESS']
+[2024-11-06 12:24:51,191] [ERROR] JobFunnel: Failed to scrape jobs for MonsterScraperUSAEng: Unable to extract jobs from initial search result page:
+	'NoneType' object has no attribute 'text'
+[2024-11-06 12:24:51,192] [INFO] JobFunnel: Completed all scraping, found 935 new jobs.
+[2024-11-06 12:24:51,295] [INFO] JobFunnel: Done. View your current jobs in Project_Data/TX_Jobs.csv
+[2024-11-06 12:25:37,856] [INFO] JobFunnel: Scraping local providers with: ['IndeedScraperUSAEng', 'MonsterScraperUSAEng']
+[2024-11-06 12:25:39,692] [INFO] IndeedScraperUSAEng: Found 10 pages of search results for query=Data
+[2024-11-06 12:25:43,871] [INFO] IndeedScraperUSAEng: Scraped 250 job listings from search results pages
+[2024-11-06 12:25:44,224] [ERROR] IndeedScraperUSAEng: Job Sr. AI Engineer and Sr. AI Engineer share duplicate key_id: IndeedScraperUSAEng_8910ff5047418cc8
+[2024-11-06 12:25:44,225] [ERROR] IndeedScraperUSAEng: Job DATA MANAGER I-STUDENT INFO and DATA MANAGER I-STUDENT INFO share duplicate key_id: IndeedScraperUSAEng_7f90231b240f4e65
+[2024-11-06 12:25:44,226] [ERROR] IndeedScraperUSAEng: Job Microbiology Data Reviewer/Specialist I and Microbiology Data Reviewer/Specialist I share duplicate key_id: IndeedScraperUSAEng_944e8a1f4e0d40a6
+[2024-11-06 12:25:44,227] [ERROR] IndeedScraperUSAEng: Job Database and Application Coordinator and Database and Application Coordinator share duplicate key_id: IndeedScraperUSAEng_3b72a2bbac91c998
+[2024-11-06 12:25:44,227] [ERROR] IndeedScraperUSAEng: Job Staff Data Scientist, Product and Staff Data Scientist, Product share duplicate key_id: IndeedScraperUSAEng_f020d273895ea978
+[2024-11-06 12:25:44,227] [ERROR] IndeedScraperUSAEng: Job Data Office - Global Service Lead and Data Office - Global Service Lead share duplicate key_id: IndeedScraperUSAEng_67640d83f1baf33d
+[2024-11-06 12:25:44,254] [INFO] MonsterScraperUSAEng: No get() or set() will be done for Job attrs: ['REMOTENESS']
+[2024-11-06 12:25:45,640] [ERROR] JobFunnel: Failed to scrape jobs for MonsterScraperUSAEng: Unable to extract jobs from initial search result page:
+	'NoneType' object has no attribute 'text'
+[2024-11-06 12:25:45,641] [INFO] JobFunnel: Completed all scraping, found 244 new jobs.
+[2024-11-06 12:25:45,703] [INFO] JobFunnel: Done. View your current jobs in Project_Data/NC_Jobs.csv
